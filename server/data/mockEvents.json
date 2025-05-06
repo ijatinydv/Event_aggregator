@@ -1,0 +1,47 @@
+[
+  {
+    "name": "CodeHack 2025",
+    "date": "2025-06-15T09:00:00.000Z",
+    "type": "Hackathon",
+    "college": "MIT",
+    "location": "Cambridge, MA",
+    "description": "Annual 48-hour hackathon focusing on AI and machine learning solutions for healthcare.",
+    "link": "https://codehack.example.com"
+  },
+  {
+    "name": "Web Dev Workshop Series",
+    "date": "2025-07-10T14:00:00.000Z",
+    "type": "Workshop",
+    "college": "Stanford University",
+    "location": "Palo Alto, CA",
+    "description": "Hands-on workshop series covering full-stack development with React, Node.js, and MongoDB.",
+    "link": "https://webdev.stanford.example.edu"
+  },
+  {
+    "name": "Future of AI Tech Talk",
+    "date": "2025-06-25T18:30:00.000Z",
+    "type": "Tech Talk",
+    "college": "UC Berkeley",
+    "location": "Berkeley, CA",
+    "description": "Distinguished lecture on the future of artificial intelligence and its impact on society.",
+    "link": "https://ai-talk.berkeley.example.edu"
+  },
+  {
+    "name": "Cloud Computing Conference",
+    "date": "2025-08-05T09:00:00.000Z",
+    "type": "Conference",
+    "college": "Carnegie Mellon University",
+    "location": "Pittsburgh, PA",
+    "description": "Three-day conference covering cloud computing technologies, serverless architecture, and DevOps practices.",
+    "link": "https://cloud-conf.cmu.example.edu"
+  },
+  {
+    "name": "Blockchain Bootcamp",
+    "date": "2025-07-20T10:00:00.000Z",
+    "type": "Workshop",
+    "college": "Harvard University",
+    "location": "Cambridge, MA",
+    "description": "Intensive bootcamp on blockchain technology, smart contracts, and decentralized applications.",
+    "link": "https://blockchain.harvard.example.edu"
+  }
+] 
