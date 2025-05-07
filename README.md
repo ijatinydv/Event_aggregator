@@ -105,10 +105,10 @@ npm run build
 
 ## Submission Contact Info
 
-- GitHub: [Your GitHub URL]
-- Telegram: [@YourTelegramID]
-- Twitter: [@YourTwitterID]
-- Contact Number: [+91-XXXXXXXXXX]
+- GitHub: https://github.com/ijatinydv/
+- Telegram: @jd_ydv_777
+- Twitter: @Jatin_kumar27
+- Contact Number: +91 9785525236
 
 ## License
 
