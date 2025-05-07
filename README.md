@@ -76,33 +76,6 @@ This will run both the client (on port 3000) and server (on port 5000) concurren
 - `POST /api/events` - Create a new event
 - `GET /api/events/:id` - Get a single event by ID
 
-## Deployment Instructions
-
-### Backend Deployment (Heroku)
-1. Create a Heroku account and install the Heroku CLI
-2. Initialize a git repository (if not already done)
-3. Create a new Heroku app:
-```bash
-heroku create your-app-name
-```
-4. Set environment variables:
-```bash
-heroku config:set MONGODB_URI=your_mongodb_atlas_uri
-```
-5. Push to Heroku:
-```bash
-git push heroku main
-```
-
-### Frontend Deployment (Netlify/Vercel)
-1. Build the React app:
-```bash
-cd client
-npm run build
-```
-2. Deploy the build folder to Netlify/Vercel or your preferred static hosting provider.
-3. Set the API URL environment variable to point to your deployed backend.
-
 ## Submission Contact Info
 
 - GitHub: https://github.com/ijatinydv/
