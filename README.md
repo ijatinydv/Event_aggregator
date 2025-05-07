@@ -2,8 +2,6 @@
 
 A full-stack web application for aggregating and displaying tech events such as hackathons, workshops, and tech talks.
 
-![Event Aggregator Screenshot](https://via.placeholder.com/800x400.png?text=Event+Aggregator+Web+App)
-
 ## Features
 
 - Browse upcoming tech events with details (name, date, type, college, location, description, and link)
